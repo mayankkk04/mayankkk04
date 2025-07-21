@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 Currently focused on DSA, MERN development, and building real-world web projects<br>🚧 Learning AWS and strengthening my understanding of core CS subjects like OS, DBMS, and OOPS<br>🧠 Regularly solving problems on LeetCode and participating in coding contests<br>🤝 Open to collaborating on impactful software projects and clean UI development<br>🚀 I actively participate in Competitive Programming contests.<br>📫 How to reach me: mayankpimpale01@gmail.com<br>⚡ Aspiring Software Development Engineer.
+💻 Passionate about **Full-Stack Web Development** and building clean, scalable applications.<br>🚧 🧠 Currently building on **AWS Cloud Services**, and sharpening my skills in **Data Structures and Algorithms** (Java).<br>🌱 I love exploring new technologies and improving my problem-solving ability.<br>🤝 Open to collaborating on impactful software projects and clean UI development<br>📫 How to reach me: mayankpimpale01@gmail.com<br>⚙️ Tech Stack: JavaScript, React.js, Node.js, Express, MongoDB, Java, Git, and AWS
 
 
 ## 🌐 Socials:
