@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Passionate about **Full-Stack Web Development** and building clean, scalable applications<br>🧠 Currently building on **AWS Cloud Services**, and sharpening my skills in **Data Structures and Algorithms** (Java)<br>🌱 I love exploring new technologies and improving my problem-solving ability<br>🤝 Open to collaborating on impactful software projects and clean UI development<br>📫 How to reach me: mayankpimpale01@gmail.com<br>⚙️ Tech Stack: JavaScript, React.js, Node.js, Express, MongoDB, Java, Git, and AWS
+💻 Passionate about **Full-Stack Web Development** and building clean, scalable applications<br>🧠 Currently building on **AWS Cloud Services**, and sharpening my skills in **Data Structures and Algorithms** (Java)<br>🌱 I love exploring new technologies and improving my problem-solving ability<br>🤝 Open to collaborating on impactful software projects and clean UI development<br>⚙️ Tech Stack: JavaScript, React.js, Node.js, Express, MongoDB, Java, Git, and AWS
 
 
 ## 🌐 Socials:
