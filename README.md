@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Passionate about **Full-Stack Web Development** and building clean, scalable applications<br>🧠 Currently building on **AWS Cloud Services**, and sharpening my skills in **Data Structures and Algorithms** (Java)<br>🌱 I love exploring new technologies and improving my problem-solving ability<br>🤝 Open to collaborating on impactful software projects and clean UI development<br>⚙️ Tech Stack: JavaScript, React.js, Node.js, Express, MongoDB, Java, Git, and AWS
+Aspiring software developer with hands-on experience in Java, Spring Boot, cloud-native architecture, and full-stack MERN development. AWS Certified Cloud Practitioner with practical expertise in serverless services including Lambda, S3, SES and CloudFront. Experienced in building and deploying scalable REST APIs and real-world applications, with a strong foundation in backend development and cloud integration. 
 
 
 ## 🌐 Socials:
